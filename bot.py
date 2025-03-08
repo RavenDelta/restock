@@ -2,7 +2,7 @@ import discord
 from discord import app_commands
 from discord.ext import commands
 
-TOKEN = "MTM0NzgyNzc3NTUzMjE3NTM5MA.GE8qcY.62f4HVqog4f4Yh1iHf_YWkDiLdUhsoe-8HXD_o"
+TOKEN = "MTM0NzgyNzc3NTUzMjE3NTM5MA.GTMjtr.20ThMLXLnfGjQLGg8aj_BbNaHNw_XMyv_B7oCs"
 GUILD_ID = 1347690953196179520  # Replace with your server ID
 
 intents = discord.Intents.default()
